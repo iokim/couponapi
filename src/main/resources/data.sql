@@ -1,0 +1,1 @@
+INSERT INTO user(id,name,password) VALUES ('iokim','inok', '{bcrypt}$2a$10$Wls54fllon2T7MRDuFzRE.jaic.GpKHsAmBvbCKHlUzsSdTbOyhnC');
